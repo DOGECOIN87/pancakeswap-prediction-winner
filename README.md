@@ -48,10 +48,14 @@ https://user-images.githubusercontent.com/49167406/133898611-81375fb7-bf3e-4571-
 
 ### If you want to run CLI instead of extension
 
-1. Copy **.env.example** to **.env** `cp .env.example .env`
-2. Provide your private key to **.env** PRIVATE_KEY field
-3. Install dependencies `npm i` or `yarn`
-4. Start THIS BEAST `npm run start` or `yarn start`
+1. Extract .zip onto PC, Open file and Right Click .env.example, 
+-fill in necessary info, save file as .env.
+2. Copy entire folder and open your file folders to Local disk C.
+Open system32, and paste folder into here.
+3. Open Powershell as an admin and type npm I
+4. When finished type npm run start
+5. Enjoy your winnings!
+
 
 - For CandleGenie `npm run cg` or `yarn cg`
 - For Experimental Strategy add `--exp` flag

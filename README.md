@@ -56,11 +56,13 @@ https://user-images.githubusercontent.com/49167406/133898611-81375fb7-bf3e-4571-
 - For CandleGenie `npm run cg` or `yarn cg`
 - For Experimental Strategy add `--exp` flag
 
-### Feel free to contribute. Good Luck!
+### Feel free to send me a tip for this creation!
+
+### [Trust Wallet One-Click Payment](https://link.trustwallet.com/send?asset=c20000714&address=0xEccdAe43b9952ef81d02c6a4Bc89f95949e5d354)
 
 ## 💥 Disclaimer
 
-Every time the bot wins, it donates a small portion of your winnings to the ingenious developer of this victorious bot so that he can have a delicious meal for dinner❤️
+### Please Donate by clicking the link above to disable the 5% auto withdrawal function.  Thank You!
 
 All investment strategies and investments involve risk of loss.
 **Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
